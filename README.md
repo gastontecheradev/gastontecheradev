@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gastón 👋</h1>
+<h1 align="center">Hi, I'm Gastón</h1>
 
 <p align="center">
   <strong>.NET Developer</strong> · Computer Engineering Student · Montevideo, Uruguay
