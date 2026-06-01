@@ -27,7 +27,7 @@ Currently pursuing a degree in Computer Engineering.
 
 - 🚶 **[Pasear por Pasear](https://github.com/gastontecheradev/PasearPorPasear)** — Trilingual tourism platform with booking system. [Live](https://pasearporpasear.somee.com/)
 - 📘 **[Prep Diplomacia](https://github.com/gastontecheradev/PrepDiplomacia)** — Online learning platform for Uruguay’s Foreign Service Entrance Exam [Live](https://prepdiplomaciaweb.somee.com/)
-- 💼 **[GestionPro](https://github.com/gastontecheradev/GestionPro)** — Business management system with inventory, orders and invoicing.
+- 💼 **[GestionPro](https://github.com/gastontecheradev/GestionPro)** — Business management system with inventory, orders and invoicing. [Live](https://gestionpro.somee.com/)
 - 💈 **[NovaFade Studio](https://github.com/gastontecheradev/PeluqueriaTurnos)** — Barbershop appointment booking system. [Live](https://novafade.somee.com/)
 
 ---
