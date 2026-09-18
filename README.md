@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Gastón</h1>
 
 <p align="center">
-  <strong>.NET Developer</strong> · IA Engineering · Montevideo, Uruguay
+  <strong>.NET Developer · IA Engineering</strong> · Montevideo, Uruguay
 </p>
 
 <p align="center">
-  <a href="https://gastontecheradev.github.io/portfolio-react">Portfolio</a> ·
+  <a href="https://gastontecheradev.com">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/gaston-techera-dev/">LinkedIn</a> ·
   <a href="mailto:tu-email@example.com">Email</a>
 </p>
