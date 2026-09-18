@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gastón</h1>
 
 <p align="center">
-  <strong>.NET Developer · IA Engineering</strong> · Montevideo, Uruguay
+  <strong>.NET Developer · IA Engineering</strong>
 </p>
 
 <p align="center">
