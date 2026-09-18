@@ -14,14 +14,9 @@
 
 ### About me
 
-I build web applications with **ASP.NET Core, C# and SQL**, focused on clean architecture, maintainability and solving real problems. I've shipped projects end to end — from requirements and database design to deployment — for small businesses and individuals.
+I build web applications with **ASP.NET and React**, focused on clean architecture, maintainability and solving real problems. I've shipped projects end to end — from requirements and database design to deployment — for small businesses and individuals.
 
 Currently pursuing a degree in Computer Engineering.
-### Tech I work with
-
-**Frontend:** React · JavaScript · HTML5 · CSS3 · Tailwind · Bootstrap
-**Backend:** ASP.NET Core MVC · C# · API Rest · Entity Framework Core · SQL · ASP.NET Identity
-**Other:** Git · REST · Razor · Software Architecture · Design Patterns
 
 ### Featured projects
 
